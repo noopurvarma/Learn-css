@@ -1,0 +1,113 @@
+body {
+	background-color: white;
+	margin:0;
+}
+
+.nav-bar {
+	height: 80px;
+	background-color: white;
+	box-shadow: 0px 3px 15px #BBBBBB;
+	position: fixed;
+    width: 100%;
+
+}
+
+.cont {
+	  width:200px;
+	  padding: 12px 0px 10px 250px;
+	  float: left;
+}
+
+.nav-contents {
+  width: 470px;
+  margin: 0px 0px 0px 500;
+  padding: 13px 0 0 27px;
+  /* float: left; */
+}
+
+}
+.nav-contents ul{
+	list-style-type: none;
+	color: black;
+	/*font: normal 90% opensans, helvetica, sans-serif;*/
+}
+
+.nav-contents ul a {     
+text-decoration: none;          
+border-bottom: none;     
+padding: 5px 10px 5px 10px;     
+margin-right: 5px;        
+color: #333; 
+font: normal 90% opensans, helvetica, sans-serif;
+font-weight: 700;
+  font-size: 0.8em;
+}
+
+.nav-contents li {
+display:inline;
+
+
+}
+
+.nav-social {
+  width: 50px;
+ margin: -70px 100px 0px 90;
+  padding: 13px 0 0 10px;	
+  float: right;
+}
+
+.nav-social ul {
+	list-style-type: none;
+	color: black;
+}
+
+.nav-social ul a {     
+text-decoration: none;          
+border-bottom: none;     
+padding: 5px 10px 5px 10px;
+       
+color: #333; 
+font: normal 90% opensans, helvetica, sans-serif;
+font-weight: 700;
+  font-size: 0.8em;
+}
+
+.nav-social li {
+display:inline;
+
+}
+
+.curtain {
+	height: 1200px;
+	position: relative;
+	z-index: 2;
+}
+.dominoes {
+    background-image: url('dominoes.png');
+    *background-repeat: no-repeat;
+    height: 760px;
+   background-position: 0 -334px;
+  /* width: 100%; */
+  background-size: cover;
+	  
+}
+
+.boxes {
+	width:200px;
+	width: 100%;
+	  /*padding: 12px 0px 10px 250px;*/
+	  float: left;
+	  background-color: #f0f0f0;
+	 padding-left: 250px;
+	 padding-right: 200px;
+}
+
+.break {
+position: fixed;
+top: 0px;
+right: -123px;
+z-index: 999999999;
+transition: right 150ms linear 0ms;
+height: 100%;€
+}
+

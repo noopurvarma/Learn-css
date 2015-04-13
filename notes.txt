@@ -1,0 +1,4 @@
+Basic git things:
+------------------
+Init git repo: git init .
+Stage files: git add
