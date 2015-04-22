@@ -1,0 +1,39 @@
+body {
+	background-color: seashell;
+	margin:0;
+}
+
+.column{
+	display: flex;
+	padding:20px;
+}
+
+.history{
+
+	padding: 20px;
+}
+
+.header{
+	
+	font-size: 5em;
+	padding:20px;
+	margin: 20px;
+	display:inline;
+	
+}
+
+.page-no{
+	
+}
+
+.title{
+
+	padding-left: 40px;
+}
+.statue{
+
+	padding-left: 40px;
+}
+
+
+
