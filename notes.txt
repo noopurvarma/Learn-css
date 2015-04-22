@@ -2,3 +2,18 @@ Basic git things:
 ------------------
 Init git repo: git init .
 Stage files: git add
+Status: git status
+Differences not staged or committed: git diff
+
+Day 1
+-----
+- I started the day with the HTML&CSS book and finished the first chapter(Structure)
+- Second chapter is about adding markup to Text, so I started playing with text layouts while reading the chapter.  A simple column layout for paragraphs, is what I am trying to do.
+
+
+Day 2
+------
+- Finished on chapter 2(text)
+- Started with Chapter 3(Lists)
+- Layout I was working with does not seem doable with the html properties I have been going through.
+
