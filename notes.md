@@ -28,17 +28,23 @@
 
 
 ### Day 5
-I mostly spent the day reading up in detail about things
+
+#### Learnings
+I mostly spent the day reading up in detail about 
 - Finished the Chapter 4(links)
-- Cleaned up the project folder
 - Started with Chapter 5(Images)
-- Got in touch with Saneef (Design consultant); details added to the trello card.
-- Spoke to amrita about the logo
+- Cleaned up the project folder
 - Spent time looking at Jenkins; and discussed with Arun about it
 - He said he can help with how to get started in it; In terms of whom to contact and stuff
 
+#### Design networking
+- Got in touch with Saneef (Design consultant); details added to the trello card.
 
-SS
+#### Misc
+- Spoke to amrita about the logo
+
+
+
 
 ## Basic git things:
 
