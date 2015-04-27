@@ -18,9 +18,17 @@
 - Discussed div vs lists with kitty, and when to use what. Semantics.
 - Did a bit of study on the "LATCH principle" and examples of it's application with Prashant.
 
+
+### Day 4(24/04)
+- 
+
+
+
+SS
+
 ## Basic git things:
 
-- Init git repo: `git init .`
+- Init git repo: `git init`
 - Stage files: `git add filename1 filename2 `
 - Status: `git status`
 - Differences not staged or committed: `git diff`
