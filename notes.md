@@ -20,8 +20,22 @@
 
 
 ### Day 4(24/04)
-- 
+- Discussed Kulu some kulu stuff with Prashant
+- Read a bit of the book
+- Paired with Srihari on inviting Jaison for Lunch
+- Spoke to Abhishek Ghate for work/mentorship leads
+- Salary discussion
 
+
+### Day 5
+I mostly spent the day reading up in detail about things
+- Finished the Chapter 4(links)
+- Cleaned up the project folder
+- Started with Chapter 5(Images)
+- Got in touch with Saneef (Design consultant); details added to the trello card.
+- Spoke to amrita about the logo
+- Spent time looking at Jenkins; and discussed with Arun about it
+- He said he can help with how to get started in it; In terms of whom to contact and stuff
 
 
 SS
