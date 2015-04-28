@@ -5,10 +5,12 @@
 - I started the day with the HTML&CSS book and finished the first chapter(Structure)
 - Second chapter is about adding markup to Text, so I started playing with text layouts while reading the chapter.  A simple column layout for paragraphs, is what I am trying to do.
 
+
 ### Day 2
 - Finished on chapter 2(text)
 - Started with Chapter 3(Lists)
 - Layout I was working with does not seem doable with the html properties I have been going through.
+
 
 ### Day 3
 - Finished reading the chapter 3(lists)
@@ -43,7 +45,13 @@ I mostly spent the day reading up in detail about
 #### Misc
 - Spoke to amrita about the logo
 
-
+### Day 6
+- Read up on the chapter 5(Images)
+- This chapter is much more detailed, with references throught the book
+- Will take more time to finish this chaper
+- Went back to layout exercise to fix some mistakes I had made with sematics
+- Will continue to work on the layout
+- Focusing on getting the html concepts clear before jumping to css, so that I have a better mental model of what I am doing
 
 
 ## Basic git things:
