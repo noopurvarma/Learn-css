@@ -47,7 +47,7 @@ I mostly spent the day reading up in detail about
 
 ### Day 6
 - Read up on the chapter 5(Images)
-- This chapter is much more detailed, with references throught the book
+- This chapter is much more detailed, with references throughout the book
 - Will take more time to finish this chaper
 - Went back to layout exercise to fix some mistakes I had made with sematics
 - Will continue to work on the layout
