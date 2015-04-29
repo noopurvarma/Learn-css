@@ -49,7 +49,7 @@ I mostly spent the day reading up in detail about
 - Read up on the chapter 5(Images)
 - This chapter is much more detailed, with references throughout the book
 - Will take more time to finish this chaper
-- Went back to layout exercise to fix some mistakes I had made with sematics
+- Went back to layout exercise to fix some mistakes I had made with semantics
 - Will continue to work on the layout
 - Focusing on getting the html concepts clear before jumping to css, so that I have a better mental model of what I am doing
 
