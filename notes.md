@@ -53,6 +53,14 @@ I mostly spent the day reading up in detail about
 - Will continue to work on the layout
 - Focusing on getting the html concepts clear before jumping to css, so that I have a better mental model of what I am doing
 
+### Day 7
+- Finished the chapter 5(Images)
+- Could not get much work done today(spent 1hr 30 mins on css)
+- Spoke to Jaison over lunch and after
+- Should not have let the converstaion extend that long, need to learn how to do it without sounding rude
+- Me and shrihari will share the summary of conversation with Jaison tomorrrow
+- Will start of early tomorrow and try to cover up on what I missed out today
+
 
 ## Basic git things:
 
