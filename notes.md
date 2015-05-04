@@ -77,7 +77,7 @@ I mostly spent the day reading up in detail about
 - Wrote the final draft of conversation with Jaison
 
 #### Misc
-- Started tracking the time I actually spent writing standup notes as well
+- Started tracking the time I actually spend writing standup notes as well
 - 19.03 Minutes today
 
 ## Basic git things:
