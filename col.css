@@ -3,22 +3,16 @@ body {
 	margin:0;
 }
 
-.column{
-	display: flex;
-	padding:20px;
-}
-
 .history{
 
 	padding: 20px;
 
 }
 
-.header{
+.content{
 	
-	font-size: 5em;
-	padding:20px;
-	margin: 20px;
+	padding: 10px;
+	font-size: 3em;
 	display:inline;
 	
 }
@@ -34,11 +28,11 @@ body {
 .statue{
 
 	display: inline;
-	width: 41%;
-	padding-left: 40px;
+	width: 100%;
+	padding-left: 20px;
 	padding-top: 40px;
 	float: left;
-	padding-right: 40px;
+
 }
 
 .list{
