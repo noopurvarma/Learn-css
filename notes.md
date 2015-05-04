@@ -61,6 +61,23 @@ I mostly spent the day reading up in detail about
 - Me and shrihari will share the summary of conversation with Jaison tomorrrow
 - Will start of early tomorrow and try to cover up on what I missed out today
 
+### Day 8
+- Spent some time revisiting chapter 5(images)
+- Started with chapter 6(tables)
+- Wrote a rough draft of conversation with Jaison 
+
+### Day 9
+
+#### Learnings
+- Finished the chapter 6(tables)
+- Wrote more CSS than reading up today
+- Tried to do the layout exercise using tables
+- Got stuck at a couple of places today
+- Will continue working on last bit of it tomorrow 
+- Wrote the final draft of conversation with Jaison
+
+#### Misc
+- Started tracking the time I actually spent writing standup notes as well
 
 ## Basic git things:
 
